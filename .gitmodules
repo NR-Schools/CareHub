@@ -1,0 +1,6 @@
+[submodule "CareHub-Backend"]
+	path = CareHub-Backend
+	url = https://github.com/NR-Schools/CareHub-Backend
+[submodule "CareHub-Frontend"]
+	path = CareHub-Frontend
+	url = https://github.com/NR-Schools/CareHub-Frontend
